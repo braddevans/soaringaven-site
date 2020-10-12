@@ -1,0 +1,10 @@
+<Location />
+Allow from All
+Satisfy Any
+</Location>
+
+
+<Location /cdn>
+Allow from All
+Satisfy Any
+</Location>
